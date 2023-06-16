@@ -1,0 +1,9 @@
+{
+  "name": "flexfile",
+  "version": "1.0.1",
+  "description": "Flexfile is a simple file management system for Node.js",
+  "main": "index.js",
+  "keywords": ["file", "management", "system", "node", "js", "javascript", "crame", "studios"],
+  "author": "Pedro Barrera",
+  "license": "ISC"
+}
